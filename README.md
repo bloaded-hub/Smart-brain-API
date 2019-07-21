@@ -1,7 +1,8 @@
-# SmartBrain-api - v2
+# SmartBrain-api
 Smart-Brain is face recognition app using React.js, Express.js, and PostgreSQL.
 It uses CSS to make a background linear gradient.
 
+Link to frontend: https://github.com/bloaded-hub/Smart-Brain
 
 # See it in action
   
