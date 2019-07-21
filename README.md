@@ -1,11 +1,29 @@
 # SmartBrain-api - v2
-Final project for Udemy course
+Smart-Brain is face recognition app using React.js, Express.js, and PostgreSQL.
+It uses CSS to make a background linear gradient.
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-4. You must add your own API key in the `controllers/image.js` file to connect to Clarifai API.
 
-You can grab Clarifai API key [here](https://www.clarifai.com/)
+# See it in action
+  
+  ![Gif Demo](https://github.com/bloaded-hub/Smart-brain-API/blob/master/smart-brain.gif)
 
-** Make sure you use postgreSQL instead of mySQL for this code base.
+
+# Built With
+
+   * React.js
+   * Node.js
+   * Express.js
+   * Brcypt for password hashing
+   * Knex to connect the server to the database
+   * Visual Studio Code (text editor)
+   * Paletton.com for choosing color palette
+   * Clarify API for face recognition
+   * Postman for REST API testing
+   * PostgreSQL database with two tables linked via the email address
+   * Git
+   * LICEcap (mac gif recording)
+   * Tachyons for CSS 
+   
+# Acknowledgments
+* Thanks to Andrei Neagoie, @aneagoie, and his course, https://www.udemy.com/the-complete-web-developer-zero-to-mastery/.
+* Also to the Z2M Discord channel for providing additional support.
